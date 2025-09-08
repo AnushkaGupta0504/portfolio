@@ -228,8 +228,9 @@ body {
 }
 
 .hero-image {
-    width: 220px;
-    height: 220px;
+    
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
     margin: 0 auto 2rem;
     background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
